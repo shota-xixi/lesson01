@@ -37,7 +37,6 @@ switch (season) {
   case 2:
     console.log("春");
     break;
-        
 
  
 }
